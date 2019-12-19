@@ -6,4 +6,4 @@ The events are grouped by their categories, such as official events, created by 
 
 ===== Architecture =====
 
-![Architecture](.Architecture.png)
+![Architecture](Architecture.png)
