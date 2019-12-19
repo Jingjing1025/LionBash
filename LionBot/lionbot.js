@@ -1,7 +1,7 @@
 
 var apigClient = apigClientFactory.newClient({
-    accessKey: 'AKIAIDVD7FSZLZIGRCXA',
-    secretKey: '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'
+    accessKey: '',
+    secretKey: ''
 });
 
 var messages = []; //array that hold the record of each string in chat
